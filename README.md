@@ -1,3 +1,3 @@
-# 04__Challenge_02
+# 04__CodeChallenge_02
 
 Kaltgetränke-Challenge
